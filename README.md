@@ -11,3 +11,4 @@ By combining these technologies, we can create a powerful and dynamic blog post 
 We’ll be creating a database to store posts and user information using MySQL, we’ll use Node.js and Express to create a server that interacts with the database. Next, we’ll build a front-end user interface using React, allowing users to create and edit blog posts.
 
 By the end of this tutorial, you will have gained a solid understanding of how to integrate these technologies to create a fully functional web application. So let’s get started and learn how to build a blog post app with React, Node.js, and MySQL.
+http://localhost:3000/
